@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Blog rund um Microsoft Entra ID, Identity & Access Management und Cloud Security.
+Blog rund um Microsoft Entra ID, Identity & Access Management und Cloud Security!
