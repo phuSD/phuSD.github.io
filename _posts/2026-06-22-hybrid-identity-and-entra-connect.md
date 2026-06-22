@@ -41,6 +41,7 @@ Hybrid Identity verbindet on-premises Active Directory mit Entra-ID.
 | Writeback: Passwörter  | Optional (SSPR) |                      |
 | Writeback: Gruppen     | Optional        |                      |
 | Writeback: Geräte      | Optional        |                      |
+
 ---
 
 ### Was soll synchronisiert werden?
