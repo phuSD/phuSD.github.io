@@ -17,8 +17,7 @@ Hybrid Identity verbindet on-premises Active Directory mit Entra-ID.
 | **Federation (ADFS)**                 | Eigener Identity Provider (ADFS/Drittanbieter)         | On-premises/ADFS | Eigene Infrastruktur |
 
 ## Entra-Connect / Sync Engine
-
-### Dedizierter Windows Server (nicht Domain-Controller!)
+- Dedizierter Windows Server (nicht Domain-Controller!)
 - Minimum Win-Server 2016+
 - SQL: localDB (bis 100k Objekte) oder SQL-Server (ab 100k)
 
