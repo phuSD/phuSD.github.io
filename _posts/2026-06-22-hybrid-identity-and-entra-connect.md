@@ -30,6 +30,7 @@ Hybrid Identity verbindet on-premises Active Directory mit Entra-ID.
  ```
 
 ### Was wird synchronisiert?
+
 | Objekt                 | Standard        | Konfigurierbar       |
 | ---------------------- | --------------- | -------------------- |
 | User                   | ✅               | Attribute wählbar    |
