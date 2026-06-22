@@ -85,7 +85,6 @@ Entra Connect → Optional Features → Password Writeback ✅
 Entra Admin Center → Password Reset → On-Premises Integration ✅
 ```
 
-> [!NOTE]
 > Ohne Writeback können Benutzer zwar ihr Cloud-Passwort zurücksetzen, aber das on-premises Passwort bleibt unverändert!
 
 ## Entra Connect Health
@@ -146,7 +145,6 @@ Verbindet on-premises Objekt mit Cloud-Objekt eindeutig.
 | `objectGUID` | ✅ Fallback |
 | `userPrincipalName` | ❌ Kann sich ändern |
 
-> [!WARNING]
 > Source Anchor nach Erstkonfiguration **nicht mehr ändern** – führt zu Duplikaten!
 
 ---
