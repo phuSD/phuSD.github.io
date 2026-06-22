@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Willkommen auf dem Blog"
-date: 2026-06-22
+date: 2026-06-22 08:00:00 +0200
 categories: [allgemein]
 tags: [intro]
 ---

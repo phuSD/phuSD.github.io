@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The New Identity Perimeter: Non-Human Identities in Microsoft Entra ID"
-date: 2026-06-22
+date: 2026-06-22 12:00:00 +0200
 categories: [entra-id, security]
 tags: [non-human-identities, conditional-access, zero-trust, workload-identities]
 ---
