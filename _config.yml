@@ -17,6 +17,10 @@ defaults:
     values:
       layout: "post"
 
+markdown: kramdown
+kramdown:
+  input: GFM
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
