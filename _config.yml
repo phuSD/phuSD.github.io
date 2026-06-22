@@ -1,0 +1,22 @@
+title: phuSD Blog
+description: Blog rund um Microsoft Entra ID, Identity & Access Management und Cloud Security
+url: "https://phusd.github.io"
+baseurl: ""
+
+theme: minima
+
+author:
+  name: Pascal Huber
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
